@@ -346,8 +346,8 @@ def main():
         with col3:
             st.markdown(f"""
             <div class="metric-card">
-                <div class="metric-label">ML Accuracy</div>
-                <div class="metric-value">{classifier_results['test_accuracy']:.1%}</div>
+                <div class="metric-label">Model Accuracy (CV)</div>
+                <div class="metric-value">{classifier_results['cv_accuracy']:.1%}</div>
             </div>
             """, unsafe_allow_html=True)
         
