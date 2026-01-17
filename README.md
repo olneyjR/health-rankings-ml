@@ -1,5 +1,7 @@
 # US State Health Rankings - Machine Learning Analysis
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://health-rankings-analysis-2025.streamlit.app/)
+
 A data science application analyzing health outcomes across all 50 US states using clustering algorithms, predictive modeling, and interactive visualizations.
 
 ## Overview
