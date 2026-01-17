@@ -61,8 +61,8 @@ Built with Streamlit, the application features:
 
 1. Clone repository
 ```bash
-git clone https://github.com/yourusername/health-ml-analysis.git
-cd health-ml-analysis
+git clone https://github.com/olneyjR/health-rankings-ml.git
+cd health-rankings-ml
 ```
 
 2. Create virtual environment
@@ -245,7 +245,7 @@ Potential enhancements:
 ## Contact
 
 Jeffrey Olney  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/olneyjR) | [LinkedIn](https://www.linkedin.com/in/jeffrey-olney/)
 
 ## Acknowledgments
 
